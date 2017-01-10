@@ -17,7 +17,7 @@
 
 <resources>
 
-    <style name="Theme.DesignDemo" parent="BaseTheme">
+    <style name="AppTheme" parent="BaseTheme">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
